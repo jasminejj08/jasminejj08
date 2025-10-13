@@ -1,6 +1,6 @@
 ☁︎ Hi, I’m Jasmine! ᵔᴗᵔ
 
-I'm currently a Masters student in Data Science and Analytics, with a passiong of exploring the multi-faceted
+I'm currently a Masters student in Data Science and Analytics, with a passion of exploring the multi-faceted
 usage of data and how it can be streamlined into meaningful actions and results.
 
 I mainly work with Python and its libraries, and previously dabbled with SQL and R.
