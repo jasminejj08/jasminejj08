@@ -1,4 +1,5 @@
 ☁︎ Hi, I’m Jasmine! ᵔᴗᵔ
+
 I'm currently a Masters student in Data Science and Analytics, with a passiong of exploring the multi-faceted
 usage of data and how it can be streamlined into meaningful actions and results.
 
@@ -8,7 +9,9 @@ My current study strengthens my skills in Machine Learning, Algorithms, and Big 
 previous skills in Artificial Intelligence.
 
 
-Currently, I'm learning: .・゜゜・ ・゜゜・．
+
+
+Currently, I'm learning:
 
 • Hadoop!
 
