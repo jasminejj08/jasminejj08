@@ -9,10 +9,15 @@ My current study strengthens my skills in Machine Learning, Algorithms, and Big 
 previous skills in Artificial Intelligence.
 
 Currently, I'm learning:
+
 • Hadoop!
+
 • More SQL!
+
 • More Machine Learning!
+
 • Mathematics behind algorithms!
+
 
 Outside of school, you can find me dabbling with art (drawing) or curating a new music playlist to listen to
 for late night coding sessions!
