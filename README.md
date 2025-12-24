@@ -3,7 +3,7 @@
 I'm currently a Masters student in Data Science and Analytics, with a passion of exploring the multi-faceted
 usage of data and how it can be streamlined into meaningful actions and results.
 
-I mainly work with Python and its libraries, and previously dabbled with SQL and R for workin with Big Data.
+I mainly work with Python and its libraries, and previously dabbled with SQL and R for working with Big Data.
 
 My current study strengthens my skills in Machine Learning, Algorithms, and Big Data; building on top of
 previous skills in Artificial Intelligence.
