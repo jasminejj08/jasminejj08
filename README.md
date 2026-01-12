@@ -10,14 +10,16 @@ previous skills in Artificial Intelligence.
 
 Currently, I'm learning:
 
-• Hadoop!
+• NLP!
 
-• More SQL!
+• Deep Learning (NNs)!
 
 • More Machine Learning!
 
-• Mathematics behind algorithms!
-
+Previously, I've dabbled in:
+- mathematics behind algorithms
+- SQL
+- machine learning
 
 Outside of school, you can find me dabbling with art (drawing) or curating a new music playlist to listen to
 for late night coding sessions!
